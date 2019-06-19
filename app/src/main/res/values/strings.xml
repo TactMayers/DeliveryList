@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Delivery List</string>
+    <string name="title_delivery_list">Things to Deliver</string>
+    <string name="title_delivery_detail">Delivery Detail</string>
+    <string name="text_delivery_list_address">Destination: %1$s</string>
+    <string name="text_loading_more">Loading more...</string>
+    <string name="text_end_of_list">End of list</string>
+    <string name="text_network_error">Cannot load items, Please try again later.</string>
+</resources>
